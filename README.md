@@ -12,5 +12,5 @@ sudo chmod +x install.sh
 
 ## 실행 확인 방법
 ```
-ps aux | grep synergyc sk
+ps aux | grep synergyc
 ```
